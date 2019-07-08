@@ -14,7 +14,7 @@ npm install
 ```
 
 ## Usage
-
+To Run any Script use:-
 ```node
 node <filename.js>
 ```
